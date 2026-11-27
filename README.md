@@ -11,6 +11,8 @@ Objectives:
 ## Policies
 ## Procedures
 ## People
+### System and Organization Controls (SOC) 1
+- [Logical Security](./docs/CONTROLS.md#logical-access-security)
 
 # Features
 ## Planning & Prep
