@@ -3,9 +3,9 @@
 ## A. Access and Privilege Management
 ### A.1. Access Approval
 - There are procedures (submission, review, approval, logging) for:
-  - requesting new access or existing access
-  - temporary access to customer data and applications, in case of customer support or incident handling
-  - physical access to production environments
+  - requesting new access or existing access (OneIdentity)
+  - temporary access to customer data and applications, in case of customer support or incident handling (Just-In-Time Access, Break-Glass Accounts, Geneva Actions)
+  - physical access to production environments (authorized user request, approval, limited time access, logging)
   - access revocation due to termination (24 hrs)
 
 ### A.2. Privileges
